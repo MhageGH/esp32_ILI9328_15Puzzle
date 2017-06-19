@@ -1,4 +1,6 @@
 # esp32_ILI9328_15Puzzle
+For prepare and wiring, see http://qiita.com/Tw_Mhage/items/ca9c52c52b4258ff27f1
+
 This software is released under the MIT License, see LICENSE.txt.
 
 !!! NOTICE !!!
