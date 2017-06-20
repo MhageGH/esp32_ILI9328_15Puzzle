@@ -1,5 +1,6 @@
 # Esp32_ILI9328_15Puzzle
 !!! NOTICE !!!
+
 ILI9328 requires SPI_MODE3. But SPI_MODE2 and SPI_MODE3 configuration are inverted in my arduino-esp32 now.
 If your arduino-esp32 has correct SPI configuration, you need to change to SPI_MODE3. 
 See ili9328.cpp.
